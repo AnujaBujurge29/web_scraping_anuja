@@ -1,11 +1,3 @@
-echo "# web_scraping_anuja" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:AnujaBujurge29/web_scraping_anuja.git
-git push -u origin main
-
 # MLB History Scraper
 
 This project uses Selenium to scrape historical baseball data from the MLB website and saves it in CSV format.
@@ -40,6 +32,7 @@ This project scrapes historical Major League Baseball (MLB) data from [Baseball 
 
 ## Project Structure
 
+```
 mlb-history-project/
 ├── data/ # Raw and cleaned CSV data
 │ ├── mlb_year_links.csv
@@ -54,6 +47,7 @@ mlb-history-project/
 │ └── dashboard.py # Streamlit dashboard app
 ├── README.md # This file
 └── requirements.txt # Python dependencies
+```
 
 ## Run the scrapers:
 
