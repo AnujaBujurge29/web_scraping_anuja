@@ -87,12 +87,12 @@ Open your browser at http://localhost:8501 to explore the dashboard.
 
 ### Dashboard Main View
 
-![Image-1](screenshots\image1.png)
+![Image-1](screenshots/image1.png)
 
-![Image-2](screenshots\image2.png)
+![Image-2](screenshots/image2.png)
 
-![Image-3](screenshots\image3.png)
+![Image-3](screenshots/image3.png)
 
-![Image-4](screenshots\image4.png)
+![Image-4](screenshots/image4.png)
 
-![Image-5](screenshots\image5.png)
+![Image-5](screenshots/image5.png)
